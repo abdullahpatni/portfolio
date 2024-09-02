@@ -8,6 +8,7 @@
 .experience-container-grid {
   margin-top: 2rem;
   display: grid;
+  grid-gap: 20px;
   grid-template-rows: repeat(auto-fill, 1fr);
 }
 
