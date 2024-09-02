@@ -27,14 +27,46 @@ main {
 }
 
 /* tech colors */
-.typescript {
-  background-color: #2e72bb;
+.adobe-xd {
+  background-color: #430135;
   color: #fff;
 }
+
+.angular {
+  background-color: #DE002D;
+  color: #fff;
+}
+
+.antlr {
+  background-color: #F0412F;
+  color: #fff;
+}
+
+.css {
+  background-color: #1f8ee7;
+  color: #fff;
+}
+
+.cicd {
+  background-color: #423f7a;
+  color: #fff;
+}
+
+.docker {
+  background-color: #1D63ED;
+  color: #fff;
+}
+
 .expressjs {
   background-color: #3c4852;
   color: #fff;
 }
+
+.typescript {
+  background-color: #2e72bb;
+  color: #fff;
+}
+
 .nextjs {
   background-color: #000000;
   color: #fff;
@@ -45,6 +77,21 @@ main {
 }
 .mui {
   background-color: #0180ff;
+  color: #fff;
+}
+
+.mysql {
+  background-color: #00758F;
+  color: #fff;
+}
+
+.gcp {
+  background-color: #FBBC38;
+  color: #fff;
+}
+
+.golang {
+  background-color: #78CFDE;
   color: #fff;
 }
 
@@ -63,10 +110,6 @@ main {
   color: #fff;
 }
 
-.css {
-  background-color: #1f8ee7;
-  color: #fff;
-}
 .html {
   background-color: #d94924;
   color: #fff;
@@ -82,6 +125,11 @@ main {
   color: #fff;
 }
 
+.primeng {
+  background-color: #3B82F6;
+  color: #fff;
+}
+
 .firebase {
   background-color: #f19d0e;
   color: #fff;
@@ -92,13 +140,13 @@ main {
   color: #fff;
 }
 
-.cicd {
-  background-color: #423f7a;
+.kubernetes {
+  background-color: #3069DE;
   color: #fff;
 }
 
-.adobe-xd {
-  background-color: #430135;
+.redux {
+  background-color: #764ABC;
   color: #fff;
 }
 
@@ -108,5 +156,20 @@ main {
 }
 .jwt {
   background-color: #d63aff;
+  color: #fff;
+}
+
+.oauth2 {
+  background-color: #000000;
+  color: #fff;
+}
+
+.oidc {
+  background-color: #E0931D;
+  color: #fff;
+}
+
+.vuejs {
+  background-color: #42B883;
   color: #fff;
 }

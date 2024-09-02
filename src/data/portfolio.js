@@ -15,7 +15,7 @@ const experience = {
       company: "NUVENTO",
       duration: "April 2024 - Present",
       description:
-        "Responsible for developing and maintaining applications using NestJS, Vue.js 3, Python, and Microsoft Azure technologies",
+        "Responsible for developing and maintaining applications using NestJS, Vue.js, Python, and Microsoft Azure technologies",
     },
     {
       title: "Software Developer",
@@ -29,7 +29,7 @@ const experience = {
       company: "APPLIED CLOUD COMPUTING",
       duration: "July 2021 - October 2022",
       description:
-        "Responsible for developing and maintaining applications using NestJS, Vue.js 3, Python, and Microsoft Azure technologies",
+        "Responsible for developing and maintaining applications using NestJS, Vue.js, Python, and Microsoft Azure technologies",
     },
     {
       title: "Software Engineer Intern",
@@ -50,7 +50,7 @@ const projects = {
         "Features Firebase authentication, video upload, and video streaming.",
       description:
         "Similarto Zscaler, streamlines server configuration and security with an Nodejs and Angular dashboard. PostgreSQL, yielding a 15% efficiency boost. Real-time monitoring ensures optimal performance. Simplify management with intuitive controls.",
-      technologies: ["#Angular", "#PrimeNg", "#Antlar", "#GCP", "#Nodejs", "#Express", "#PostgreSQL"],
+      technologies: ["Angular", "PrimeNg", "Antlr", "GCP", "Node.js", "Express.js", "PostgreSQL"],
       github: "",
       demo: "",
     },
@@ -60,7 +60,7 @@ const projects = {
         "Features JWT authentication, headless CMS, and full CRUD operations.",
       description:
         "Standardized secure access management across on-premises and cloud environments, enhancing system stability and reliability. Achieved 30% reduction in unauthorized access incidents, showcasing effective security measures with the help of Golang Application",
-      technologies: ["#Reactjs", "#MUI", "#Strapi", "#JWT", "#OAuth", "#OIDC", "#Golang"],
+      technologies: ["React.js", "MUI", "Strapi", "JWT", "OAuth 2.0", "OIDC", "Golang"],
       github: "",
       demo: "",
     },
@@ -73,24 +73,27 @@ const skills = {
     {
       title: "Languages & Frameworks",
       skills: [
-        "#Angular", "Vue.js" ,"#HTML",
-        "#CSS",
-        "#JavaScript",
-        "#TypeScript",
-        "#React.js",
-        "#Next.js",
-        "#MUI",
-        "#Node.js",
-        "#Express.js",
+        "Angular",
+        "Vue.js",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "TypeScript",
+        "React.js",
+        "Redux",
+        "Next.js",
+        "MUI",
+        "Node.js",
+        "Express.js",
       ],
     },
     {
       title: "Databases",
-      skills: ["#MongoDB", "#PostgreSQL", "#Firebase"],
+      skills: ["MongoDB", "PostgreSQL", "MySQL", "Firebase"],
     },
     {
       title: "Others",
-      skills: ["#Git", "#Jest", "#CI/CD"],
+      skills: ["Git", "Jest", "CI/CD", "Docker","Kubernetes"],
     },
   ],
 };

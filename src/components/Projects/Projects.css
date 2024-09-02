@@ -1,5 +1,5 @@
 .projects {
-  margin-top: 2rem;
+  margin-top: 4rem;
   padding: 0;
   width: 100%;
   max-width: 1200px;
@@ -7,7 +7,7 @@
 .container-grid {
   margin-top: 2rem;
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); /* Use auto-fit */
   grid-gap: 20px;
 }
 .container-grid .project-card {
